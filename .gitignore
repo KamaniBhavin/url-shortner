@@ -1,0 +1,4 @@
+.dev.vars
+.idea
+.wrangler
+node_modules

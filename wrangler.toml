@@ -1,0 +1,8 @@
+name = "url-shortner"
+main = "src/worker.ts"
+compatibility_date = "2023-08-21"
+
+kv_namespaces = [
+	{ binding = "NANO_URL_MAP", id = "b6205ceaeb76497b9ab88425f2911a4e", preview_id = "3a57c6cb05a543dc97215c7513f609d1" },
+]
+
